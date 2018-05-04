@@ -1,0 +1,14 @@
+.color_rojo{
+    background-color:red;
+    height: 600px;
+}
+
+.color_verde{
+    background-color: palegreen;
+    height: 600px;
+}
+
+.color_azul{
+    background-color:blue;
+    height: 50 px;
+}
